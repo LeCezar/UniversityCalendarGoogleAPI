@@ -1,6 +1,6 @@
 import json
 
-mandatoryCourses = ["Verificarea si validarea sistemelor soft", "Calcul numeric", "Elaborarea lucrării de licență"]
+mandatoryCourses = ["Verificarea si validarea sistemelor soft", "Calcul numeric", "Elaborarea lucrarii de licenta"]
 
 ACTION_MAKE = 1
 ACTION_DELETE = 2

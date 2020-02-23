@@ -113,8 +113,10 @@ def generateEventStartEndDateTime(eventRaw, startDate, startWeekParity):
 
     hours = eventRaw['Orele'].split("-")
     if (eventRaw['Ziua'] == 'Luni'):
-        startEventDateTime = startDate + "T" + hours[0] + ":00:00"
-        endEventDateTime = startDate + "T" + hours[1] + ":00:00"
+        startEventDate = pd.to_datetime(startDate) + pd.DateOffset(days=0 + byweeklyOffset)
+        startEventDate = str(startEventDate.year) + "-" + str(startEventDate.month) + "-" + str(startEventDate.day)
+        startEventDateTime = startEventDate + "T" + hours[0] + ":00:00"
+        endEventDateTime = startEventDate + "T" + hours[1] + ":00:00"
     elif (eventRaw['Ziua'] == 'Marti'):
         startEventDate = pd.to_datetime(startDate) + pd.DateOffset(days=1 + byweeklyOffset)
         startEventDate = str(startEventDate.year) + "-" + str(startEventDate.month) + "-" + str(startEventDate.day)

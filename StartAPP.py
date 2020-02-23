@@ -9,7 +9,7 @@ COURSE_COLOR = '4'
 def main():
     while (True):
         choice = int(
-            input("1. Add university schedule. \n 2. Delete all entries added by this app. \n 0. Exit").strip())
+            input("1. Add university schedule. \n2. Delete all entries added by this app. \n0. Exit \n ->").strip())
         if (choice == 1):
             initialJson = readJson("toConvert.json")
             schedule = addGroupsToBasicJson(initialJson)
@@ -37,9 +37,9 @@ def main():
 
 def inputSubGroup():
     try:
-        userSubGroup = int(input("What is your subgroup (1 or 2)").strip())
+        userSubGroup = int(input("What is your subgroup (1 or 2): ").strip())
         while (userSubGroup > 2 or userSubGroup < 1):
-            userSubGroup = input("Try again ... (1 or 2)").strip()
+            userSubGroup = input("Try again ... (1 or 2): ").strip()
         return userSubGroup
     except:
         print("Your input was wrong ... ")
@@ -49,9 +49,9 @@ def inputSubGroup():
 def inputGroup():
     try:
 
-        userGroup = int(input("What is your group (number from 931 - 937)").strip())
+        userGroup = int(input("What is your group (number from 931 - 937): ").strip())
         while (userGroup > 937 or userGroup < 931):
-            userGroup = int(input("Try again ... (number from 931 - 937)").strip())
+            userGroup = int(input("Try again ... (number from 931 - 937): ").strip())
         return userGroup
     except:
         print("Your input was wrong ... ")
