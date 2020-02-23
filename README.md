@@ -7,3 +7,5 @@
 3. Run this command on a terminal window inside the project directory: `pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 `
 4. Run **StartAPP.py** (might need to add some more packages) and do as it says and YOUR specific University Schedule will be generated on Google Calendar.
+
+* PS: Works only for UBB Computer Science in English Year 3 for now.
