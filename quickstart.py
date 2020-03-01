@@ -167,7 +167,7 @@ def generateEventJson(eventRaw, startDate, endDate, startWeekParity):
             "timeZone": BUCHAREST_TIMEZONE,
             "dateTime": startDateTime
         },
-        "summary": eventRaw['Disciplina'],
+        "summary": eventRaw['Tipul'] + ": " + eventRaw['Disciplina'],
         "description": "Sala: " + eventRaw['Sala'] + "\n" + "Prof: " + eventRaw['Cadrul didactic'],
         "colorId": colorId,
         "recurrence": [

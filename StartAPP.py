@@ -11,7 +11,7 @@ def main():
         choice = int(
             input("1. Add university schedule. \n2. Delete all entries added by this app. \n0. Exit \n ->").strip())
         if (choice == 1):
-            initialJson = readJson("toConvert.json")
+            initialJson = readJson("newSchedule.json")
             schedule = addGroupsToBasicJson(initialJson)
             optionalCoursesList = generateListOfOptinalCourses(initialJson)
 

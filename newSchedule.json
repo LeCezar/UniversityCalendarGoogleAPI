@@ -1,0 +1,2722 @@
+[
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L002",
+   "Formatia": "931/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 2",
+   "Sala": "L002",
+   "Formatia": "931/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L302",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Prof. DIOSAN Laura"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "Multimedia",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "C512",
+   "Formatia": "931",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L336",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "L308",
+   "Formatia": "931/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "L308",
+   "Formatia": "931/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L306",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L439",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat CIBOTARU Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "SalaNI",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L404",
+   "Formatia": "931",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Ziua",
+   "Orele": "Orele",
+   "Frecventa": "Frecventa",
+   "Sala": "Sala",
+   "Formatia": "Formatia",
+   "Tipul": "Tipul",
+   "Disciplina": "Disciplina",
+   "Cadrul didactic": "Cadrul didactic"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L343",
+   "Formatia": "932/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "Multimedia",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L339",
+   "Formatia": "932/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L336",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "C512",
+   "Formatia": "932",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L320",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Lect. LUPSA Dana"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "L302",
+   "Formatia": "932/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "L302",
+   "Formatia": "932/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L404",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "L439",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat TURIAN Alexandra"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "SalaNI",
+   "Formatia": "932",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Ziua",
+   "Orele": "Orele",
+   "Frecventa": "Frecventa",
+   "Sala": "Sala",
+   "Formatia": "Formatia",
+   "Tipul": "Tipul",
+   "Disciplina": "Disciplina",
+   "Cadrul didactic": "Cadrul didactic"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "Multimedia",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "L302",
+   "Formatia": "933/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "L308",
+   "Formatia": "933/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L336",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 2",
+   "Sala": "C512",
+   "Formatia": "933",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L336",
+   "Formatia": "933/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L343",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Conf. CHIRA Camelia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L343",
+   "Formatia": "933/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L306",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L404",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L439",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat TURIAN Alexandra"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "SalaNI",
+   "Formatia": "933",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Ziua",
+   "Orele": "Orele",
+   "Frecventa": "Frecventa",
+   "Sala": "Sala",
+   "Formatia": "Formatia",
+   "Tipul": "Tipul",
+   "Disciplina": "Disciplina",
+   "Cadrul didactic": "Cadrul didactic"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "Multimedia",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "L336",
+   "Formatia": "934/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Asist. MICU Tudor"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "L308",
+   "Formatia": "934/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Lect. IANCU Mihai"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L336",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 2",
+   "Sala": "L336",
+   "Formatia": "934/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "C512",
+   "Formatia": "934",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L343",
+   "Formatia": "934/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L439",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat CIBOTARU Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "SalaNI",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L404",
+   "Formatia": "934",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Ziua",
+   "Orele": "Orele",
+   "Frecventa": "Frecventa",
+   "Sala": "Sala",
+   "Formatia": "Formatia",
+   "Tipul": "Tipul",
+   "Disciplina": "Disciplina",
+   "Cadrul didactic": "Cadrul didactic"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "C512",
+   "Formatia": "935",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "Multimedia",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "L302",
+   "Formatia": "935/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Asist. MICU Tudor"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L336",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "C512",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L306",
+   "Formatia": "935/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "935/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L306",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L404",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "L439",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat TURIAN Alexandra"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "SalaNI",
+   "Formatia": "935",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "L339",
+   "Formatia": "935/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Asist. MICU Tudor"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Ziua",
+   "Orele": "Orele",
+   "Frecventa": "Frecventa",
+   "Sala": "Sala",
+   "Formatia": "Formatia",
+   "Tipul": "Tipul",
+   "Disciplina": "Disciplina",
+   "Cadrul didactic": "Cadrul didactic"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "Multimedia",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "14-16",
+   "Frecventa": "sapt. 1",
+   "Sala": "C512",
+   "Formatia": "936",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L336",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L404",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L439",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat TURIAN Alexandra"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "SalaNI",
+   "Formatia": "936",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "14-16",
+   "Frecventa": "sapt. 1",
+   "Sala": "L336",
+   "Formatia": "936/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "14-16",
+   "Frecventa": "sapt. 2",
+   "Sala": "L336",
+   "Formatia": "936/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "L302",
+   "Formatia": "936/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Asist. MICU Tudor"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "L339",
+   "Formatia": "936/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Asist. MICU Tudor"
+ },
+ {
+   "Ziua": "Ziua",
+   "Orele": "Orele",
+   "Frecventa": "Frecventa",
+   "Sala": "Sala",
+   "Formatia": "Formatia",
+   "Tipul": "Tipul",
+   "Disciplina": "Disciplina",
+   "Cadrul didactic": "Cadrul didactic"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "gamma",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "Multimedia",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Microcontroleri",
+   "Cadrul didactic": "Lect. TUNYAGI Arthur"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "14-16",
+   "Frecventa": "sapt. 2",
+   "Sala": "C512",
+   "Formatia": "937",
+   "Tipul": "Seminar",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L402",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Asist. MIHOLCA Diana"
+ },
+ {
+   "Ziua": "Luni",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "9/I",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Gestiunea proiectelor soft",
+   "Cadrul didactic": "Lect. SUCIU Dan Mircea"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "2/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Conf. CATINAS Teodora"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de realizare a sistemelor inteligente",
+   "Cadrul didactic": "Prof. CZIBULA Gabriela"
+ },
+ {
+   "Ziua": "Marti",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L336",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "L301",
+   "Formatia": "937/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Drd. Papuc Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "L301",
+   "Formatia": "937/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Calcul numeric",
+   "Cadrul didactic": "Drd. Papuc Ioan"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "L301",
+   "Formatia": "937/1",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L301",
+   "Formatia": "937/2",
+   "Tipul": "Laborator",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Drd. LORINCZ Beata"
+ },
+ {
+   "Ziua": "Miercuri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L339",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Paradigme si tehnici ale programarii paralele",
+   "Cadrul didactic": "Conf. NICULESCU Virginia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "8-10",
+   "Frecventa": "sapt. 1",
+   "Sala": "L338",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "Prof. ANDREICA Anca"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "10-12",
+   "Frecventa": "sapt. 1",
+   "Sala": "L306",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Administrarea de sistem si de retea",
+   "Cadrul didactic": "Lect. DRAGOS Radu"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Tehnici de testare software",
+   "Cadrul didactic": "Lect. CHISALITA-CRETU Camelia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 1",
+   "Sala": "L308",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Business Intelligence",
+   "Cadrul didactic": "C.d.asociat CIOANCA Larisa"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "12-14",
+   "Frecventa": "sapt. 2",
+   "Sala": "L404",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Android Things",
+   "Cadrul didactic": "Lect. COJOCAR Dan"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "Lect. MOLNAR Arthur"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "14-16",
+   "Frecventa": "",
+   "Sala": "SalaNI",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 2",
+   "Sala": "L439",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Design patterns",
+   "Cadrul didactic": "C.d.asociat TURIAN Alexandra"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "16-18",
+   "Frecventa": "sapt. 1",
+   "Sala": "SalaNI",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Instrumentatie virtuala",
+   "Cadrul didactic": "Prof. HEDESIU Horia"
+ },
+ {
+   "Ziua": "Joi",
+   "Orele": "18-20",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Dezvoltarea de jocuri",
+   "Cadrul didactic": "Lect. LAZAR Ioan"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "5/I",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Metodologia documentarii si elaborarii unei lucrari stiintifice",
+   "Cadrul didactic": "Prof. PETRUSEL Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "8-10",
+   "Frecventa": "",
+   "Sala": "A2",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Verificarea si validarea sistemelor soft",
+   "Cadrul didactic": "Conf. VESCAN Andreea"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria informaticii",
+   "Cadrul didactic": "Lect. STERCA Adrian"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "C335",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Aspecte etice si juridice in informatica",
+   "Cadrul didactic": "Conf. MOTOGNA Simona"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "10-12",
+   "Frecventa": "",
+   "Sala": "e",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Istoria matematicii",
+   "Cadrul didactic": "Lect. ILEA Veronica"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "12-13",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "13-14",
+   "Frecventa": "",
+   "Sala": "A308",
+   "Formatia": "IE3",
+   "Tipul": "Seminar",
+   "Disciplina": "Managementul clasei de elevi",
+   "Cadrul didactic": "Lect. MAGDAS Ioana"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "16-18",
+   "Frecventa": "",
+   "Sala": "C310",
+   "Formatia": "IE3",
+   "Tipul": "Curs",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 1",
+   "Sala": "L302",
+   "Formatia": "937",
+   "Tipul": "Laborator",
+   "Disciplina": "Elaborarea lucrarii de licenta",
+   "Cadrul didactic": "Lect. LUPSA Radu"
+ },
+ {
+   "Ziua": "Vineri",
+   "Orele": "18-20",
+   "Frecventa": "sapt. 2",
+   "Sala": "L306",
+   "Formatia": "IE3",
+   "Tipul": "Laborator",
+   "Disciplina": "Fundamentele limbajelor de programare",
+   "Cadrul didactic": "Lect. VANCEA Alexandru"
+ }
+]
