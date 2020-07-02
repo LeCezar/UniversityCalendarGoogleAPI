@@ -1,5 +1,8 @@
 # UniversityCalendarGoogleAPI
 
+## What is it?
+A python script that generates events in Google Calendar for Year 3 students at Babes Bolyai University Informatics In English.
+
 ## How to run
 
 
